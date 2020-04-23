@@ -194,3 +194,9 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.table {
+    margin-top: 20px;
+    text-align: justify;
+    border: 0;
+}
